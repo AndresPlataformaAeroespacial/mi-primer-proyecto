@@ -1,2 +1,2 @@
 Qué hay de nuevo viejo
-Este es el primer archivo de texto con el que vamos a jugar
+Este es el archivo de texto cambiado con el que vamos a jugar y con el que vamos a ver cómo controla las diferencias
