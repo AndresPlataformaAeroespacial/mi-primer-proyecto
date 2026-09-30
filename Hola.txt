@@ -1,2 +1,6 @@
-Qué hay de nuevo viejo
+Hola tíos
 Este es el archivo de texto cambiado con el que vamos a jugar y con el que vamos a ver cómo controla las diferencias
+
+Esta es el segundo cambio. Debe aparecer una línea nueva
+
+El tercer párrafo es un claro ejemplo de cómo cambia el texto, per fíjate que también hemos cambiado el primer párrafo
